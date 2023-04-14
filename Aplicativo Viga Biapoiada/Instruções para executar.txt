@@ -1,0 +1,3 @@
+Abrir o arquivo "Viga_Interface.m" no MATLAB e executá-lo
+* MANTER O ARQUIVO "FEM" NA MESMA PASTA DO OUTRO ARQUIVO
+* NÃO EXCLUIR O ARQUIVO "FEM"
